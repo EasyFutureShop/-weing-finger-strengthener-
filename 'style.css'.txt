@@ -1,0 +1,41 @@
+body {
+    margin: 0;
+    padding: 0;
+    font-family: Arial, sans-serif;
+    background-color: #1a1a1a; /* Nero scuro */
+    color: #fff; /* Testo bianco */
+}
+
+header {
+    background-color: #004080; /* Blu scuro */
+    padding: 10px;
+    text-align: center;
+}
+
+section {
+    padding: 20px;
+}
+
+img {
+    max-width: 100%;
+    height: auto;
+    border: 2px solid #004080; /* Blu scuro */
+    margin-bottom: 20px;
+}
+
+a {
+    color: #66b3ff; /* Blu chiaro */
+}
+
+a:hover {
+    color: #ff9933; /* Arancione */
+}
+
+footer {
+    background-color: #004080; /* Blu scuro */
+    padding: 10px;
+    text-align: center;
+    position: absolute;
+    bottom: 0;
+    width: 100%;
+}
